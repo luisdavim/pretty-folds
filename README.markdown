@@ -44,7 +44,7 @@ haven't put much effort into documenting that.
 
 ## Self-Promotion
 
-Like sensible.vim? Follow the repository on
+Like this plugin? Follow the repository on
 [GitHub](https://github.com/luisdavim/pretty-folds) and vote for it on
 [GitHub](https://github.com/luisdavim).
 
