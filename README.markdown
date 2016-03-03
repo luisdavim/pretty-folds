@@ -4,7 +4,7 @@ This is a very simple plugin to make folding in Vim look better and eazier
 
 ## Installation
 
-### Using [pathogen.vim](https://github.com/tpope/vim-pathogen):
+### Using [pathogen.vim](https://github.com/tpope/vim-pathogen) or [vundle.vim](https://github.com/VundleVim/Vundle.vim):
 Simply copy and paste:
 
     cd ~/.vim/bundle
