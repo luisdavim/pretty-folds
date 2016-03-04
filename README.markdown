@@ -10,6 +10,8 @@ Simply copy and paste:
     cd ~/.vim/bundle
     git clone git://github.com/luisdavim/pretty-folds.git
 
+An in the case of vundle add `Bundle 'luisdavim/pretty-folds'
+` to your .vimrc
 ## Features
 
 See the [source][] for the authoritative list of features:
