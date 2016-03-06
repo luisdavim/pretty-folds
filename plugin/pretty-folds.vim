@@ -23,6 +23,9 @@ if has("folding")
   " Automatic folding
   nmap <leader>af :call AutoFolding()<CR>
 
+  "set foldcolumn=1
+  "hi FoldColumn ctermfg=grey
+
   " toggle folds
   nnoremap <Space> za
   vnoremap <Space> za
