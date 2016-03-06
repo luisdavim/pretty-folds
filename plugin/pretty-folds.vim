@@ -29,6 +29,8 @@ if has("folding")
   " toggle folds
   nnoremap <Space> za
   vnoremap <Space> za
+  " <2-LeftMouse>     Open fold, or select word or % match.
+  nnoremap <expr> <2-LeftMouse> foldclosed(line('.')) == -1 ? "\<2-LeftMouse>" : 'za'
 
   "fold tags
   nnoremap <leader>ft Vatzf
