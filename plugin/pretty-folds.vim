@@ -16,6 +16,7 @@ function! AutoFolding ()
   set foldenable
   set foldlevelstart=99
   set foldmethod=syntax
+  " set foldcolumn=1
 endfun
 
 " Folding
